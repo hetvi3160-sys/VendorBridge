@@ -1,1 +1,1 @@
-# odoo-hackathon-2026
+# Vendor Bridge
